@@ -22,4 +22,6 @@ langchain
 openai
 SpeechRecognition
 gtts
+plotly
+
 pygame
